@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BF9A65F8-81F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonarSample.Library", "src\SonarSample.Library\SonarSample.Library.csproj", "{948AA376-4D87-4D9F-A308-5800E5B595D0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{755E0E72-6133-47E2-8860-B665FA83E46D}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{755E0E72-6133-47E2-8860-B665FA83E46D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.SonarSample.Library", "test\Tests.SonarSample.Library\Tests.SonarSample.Library.csproj", "{8ED1AAEA-3E4B-4BB5-B08F-DA5EC6B1AECA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.SonarSample.Library", "tests\Tests.SonarSample.Library\Tests.SonarSample.Library.csproj", "{8ED1AAEA-3E4B-4BB5-B08F-DA5EC6B1AECA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
