@@ -1,0 +1,8 @@
+.idea
+.sonarqube
+
+*.DotSettings.user
+
+**/bin
+**/obj
+**/artifacts
